@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+
+a-scene {
+  position: absolute !important;
+  height: 100%;
+  width: 100%;
+}
+
+.spinner {
+  display: flex;
+  justify-content: center;
+  margin-top: 30vh;
+  /* position: absolute;
+  top: 50%;
+  left: 50%; */
+
+}
+
+.text {
+  color: #FFA500;
+  margin-top: 5vh;
+}
+
+.page404-text {
+  margin-top: 30vh;
+  color: #FFA500;
+}
