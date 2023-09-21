@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/varada-vinayaka-yuva-tarun-sangh/static/css/main.9c8840ca.css",
+    "main.js": "/varada-vinayaka-yuva-tarun-sangh/static/js/main.3943634d.js",
+    "static/media/floorView.jpg": "/varada-vinayaka-yuva-tarun-sangh/static/media/floorView.df179aeac9f76a2fb008.jpg",
+    "static/media/stageView.jpg": "/varada-vinayaka-yuva-tarun-sangh/static/media/stageView.a08ad4645cc37318deaa.jpg",
+    "static/media/audio.mp3": "/varada-vinayaka-yuva-tarun-sangh/static/media/audio.1fb8b1812e3615922ba6.mp3",
+    "static/media/arrow.png": "/varada-vinayaka-yuva-tarun-sangh/static/media/arrow.41b07eeaf22c895a9d80.png",
+    "index.html": "/varada-vinayaka-yuva-tarun-sangh/index.html",
+    "main.9c8840ca.css.map": "/varada-vinayaka-yuva-tarun-sangh/static/css/main.9c8840ca.css.map",
+    "main.3943634d.js.map": "/varada-vinayaka-yuva-tarun-sangh/static/js/main.3943634d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c8840ca.css",
+    "static/js/main.3943634d.js"
+  ]
+}
