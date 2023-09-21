@@ -40,7 +40,6 @@ const Frame = () => {
         <a-scene
           vr-mode-ui="cardboardModeEnabled: true"
           loading-screen="enabled:false"
-          cursor="rayOrigin: mouse"
         >
           <Assests />
           <a-sky
